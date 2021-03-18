@@ -1,2 +1,2 @@
-# python
-My Python Projects
+# Adventure Game
+A text-based adventure game using Phython
